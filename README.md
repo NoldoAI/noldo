@@ -1,5 +1,8 @@
 # SeekDeep
 
+## Short Description
+SeekDeep is an AI-powered platform that connects sellers with potential buyers by automating lead generation and sales communication. Sellers can create AI sales assistants to engage buyers on social media, while buyers can use SeekDeep to find the best deals and set alerts for specific products and prices.
+
 ## Problem
 - **Sellers** want to find people who want to buy their products.
 - **Sellers** want to communicate and convince potential buyers.
