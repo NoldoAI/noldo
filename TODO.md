@@ -2,15 +2,15 @@
 
 ## **Phase 1: Platform Development**
 ### Core Features
-- [ ] Build the AI sales assistant framework using LLMs for natural language understanding and generation.
-- [ ] Develop the seller dashboard for creating AI assistants and managing product lists, leveraging LLMs for intuitive UI/UX design.
-- [ ] Implement social media monitoring and lead generation tools, using **scrapers** to collect data from **Reddit and Facebook**.
+- [x] Build the AI sales assistant framework using LLMs.
+- [x] Develop the seller dashboard for creating AI assistants and managing product lists, leveraging LLMs for intuitive UI/UX design.
+- [x] Implement social media monitoring and lead generation tools, using **scrapers** to collect data from **Reddit and Facebook**.
 - [ ] Create the buyer-facing chat interface powered by LLMs for seamless product inquiries and alerts.
-- [ ] Set up a database to store seller and product information, with LLMs assisting in data organization and retrieval.
+- [x] Set up a database to store seller and product information, with LLMs assisting in data organization and retrieval.
 
 ### Technical Infrastructure
-- [ ] Design and deploy a scalable backend system optimized for scraper integration.
-- [ ] Build scrapers for **Reddit and Facebook** to collect posts and comments related to buyer intent (e.g., "looking to buy an iPhone in Georgia").
+- [x] Design and deploy a scalable backend system optimized for scraper integration.
+- [x] Build scrapers for **Reddit and Facebook** to collect posts and comments related to buyer intent (e.g., "looking to buy an iPhone in Georgia").
 - [ ] Fine-tune LLM models for specific use cases (e.g., buyer-seller matching, personalized recommendations).
 - [ ] Ensure data security and compliance with privacy regulations (e.g., GDPR), using LLMs for automated compliance checks.
 
