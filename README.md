@@ -11,3 +11,9 @@ after that system finds potential leads in the social media, for example some po
 
 
 
+also our platform is also for buyers too.
+
+we constantly doing monitoring of sellers websites, for example we're monitoring Technics sellers and saving their data.
+
+when someone want's to buy something you can just come to SeekDeep chat and ask: I'm in Georgia and i want to buy an Mac Pro and AI will give you links and options from sellers and social medias.
+you can set and alert: if someone will put an Iphone 15 under 2000 Lari send me an alert
