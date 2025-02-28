@@ -60,7 +60,7 @@ SeekDeep is an AI-powered platform that connects sellers with potential buyers b
 ---
 
 ## Lead Generation
-- **Social Media Monitoring**: The system identifies potential leads on social media. For example, if someone posts on Facebook about wanting to buy an iPhone in Georgia, our bot will send a comment like: 
+- **Social Media Monitoring**: The system identifies potential leads on social media. For example, if someone posts on Facebook about wanting to buy an iPhone in Georgia, our bot will send a comment like:  
   > "We're selling iPhones, come and check, ask me any questions - https://{seller}.deepseek/iphone-for-sale"
   
   On this link, the buyer will interact with the AI assistant bot that has knowledge about the product.
@@ -75,6 +75,14 @@ SeekDeep is an AI-powered platform that connects sellers with potential buyers b
   The AI will provide links and options from sellers and social media.
 - **Alerts**: Buyers can set alerts for specific products and prices. For example:
   > "If someone lists an iPhone 15 under 2000 Lari, send me an alert."
+
+---
+
+## FUTURE: AI-Powered In-Store Consultants
+SeekDeep will also provide AI-powered talking consultants in stores. These AI consultants will:
+- **Interact with Customers**: Engage with clients in real-time, answering their questions and providing product recommendations based on the available product database.
+- **Gather and Analyze Data**: Collect insights on customer preferences, frequently asked questions, and product demand.
+- **Enhance In-Store Experience**: Improve customer satisfaction by offering quick and relevant information, reducing wait times, and assisting sales representatives.
 
 ---
 
@@ -143,3 +151,4 @@ SeekDeep is an AI-powered platform that connects sellers with potential buyers b
 
 - **Buyers:**  
   Price-conscious, deal-seeking, and open to AI-assisted shopping experiences.  
+
