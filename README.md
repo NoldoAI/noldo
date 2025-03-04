@@ -1,5 +1,13 @@
 # SeekDeep
 
+## Mantra
+
+- **Depth of Discovery** – Looking beyond the obvious, finding what truly matters.
+- **Persistent Search** – A relentless pursuit of the right connections, deals, or insights.
+- **Wisdom & Insight** – Seeking not just information but understanding.
+- **Unveiling Opportunities** – Digging deep to find the best possibilities, whether in business, relationships, or knowledge.
+
+
 ## Short Description
 SeekDeep is an AI-powered platform that connects sellers with potential buyers by automating lead generation and sales communication. Sellers can create AI sales assistants to engage buyers on social media, while buyers can use SeekDeep to find the best deals and set alerts for specific products and prices.
 
