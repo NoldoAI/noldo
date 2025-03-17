@@ -160,3 +160,5 @@ SeekDeep will also provide AI-powered talking consultants in stores. These AI co
 - **Buyers:**  
   Price-conscious, deal-seeking, and open to AI-assisted shopping experiences.  
 
+### Random Ideas
+  - Chat should be research system for buyers, for example "I want to buy good drone" - and give some research
