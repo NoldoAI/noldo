@@ -7,7 +7,6 @@
 - **Wisdom & Insight** – Seeking not just information but understanding.
 - **Unveiling Opportunities** – Digging deep to find the best possibilities, whether in business, relationships, or knowledge.
 
-
 ## Short Description
 SeekDeep is an AI-powered platform that connects sellers with potential buyers by automating lead generation and sales communication. Sellers can create AI sales assistants to engage buyers on social media, while buyers can use SeekDeep to find the best deals and set alerts for specific products and prices.
 
@@ -58,6 +57,7 @@ SeekDeep is an AI-powered platform that connects sellers with potential buyers b
 ## Our Solution
 - **Finding Buyers**: We identify people who want to buy specific products on social media.
 - **AI Sales Assistant**: Our AI sales assistant, which has access to the seller's database, communicates with potential buyers and tries to convince them to make a purchase (or follows any other instructions provided by the seller).
+- **Seeky.chat**: Our AI-powered product explorer and recommendation chat assists buyers in finding the best deals based on their needs.
 
 ---
 
@@ -77,7 +77,7 @@ SeekDeep is an AI-powered platform that connects sellers with potential buyers b
 
 ## Platform Features for Buyers
 - **Monitoring Seller Websites**: We constantly monitor sellers' websites, such as those selling electronics, and save their data.
-- **SeekDeep Chat**: Buyers can use the SeekDeep chat to ask for products. For example:
+- **SeekDeep Chat (Seeky.chat)**: Buyers can use Seeky.chat to ask for products. For example:
   > "I'm in Georgia and I want to buy a Mac Pro."
   
   The AI will provide links and options from sellers and social media.
@@ -86,12 +86,14 @@ SeekDeep is an AI-powered platform that connects sellers with potential buyers b
 
 ---
 
-## FUTURE: AI-Powered In-Store Consultants
-SeekDeep will also provide AI-powered talking consultants in stores. These AI consultants will:
-- **Interact with Customers**: Engage with clients in real-time, answering their questions and providing product recommendations based on the available product database.
-- **Gather and Analyze Data**: Collect insights on customer preferences, frequently asked questions, and product demand.
-- **Enhance In-Store Experience**: Improve customer satisfaction by offering quick and relevant information, reducing wait times, and assisting sales representatives.
+## Seeky.chat: AI Product Explorer & Recommendation System
+Seeky.chat is an AI-powered chat that helps users explore and find the best products available across different sellers. Buyers can:
+- **Ask for Product Recommendations**: "Find me a good laptop for college students."
+- **Explore Best Deals**: "What are the best budget smartphones under $500?"
+- **Compare Products**: "Compare MacBook Air and Dell XPS 13."
+- **Get Insights on Products**: "Is the iPhone 15 worth upgrading from iPhone 14?"
 
+Seeky.chat acts as a personal shopping assistant, helping buyers make informed decisions quickly and efficiently.
 ---
 
 ## Target Audience
@@ -142,23 +144,3 @@ SeekDeep will also provide AI-powered talking consultants in stores. These AI co
 - **Gift Shoppers:**  
   Buyers looking for specific products as gifts.  
 
----
-
-### **4. Geographic Focus**  
-- **Localized Markets:**  
-  Sellers and buyers in specific countries or regions (e.g., Georgia, Eastern Europe).  
-
-- **Global Markets:**  
-  Sellers and buyers in global markets, especially for high-demand products like electronics.  
-
----
-
-### **5. Psychographic Traits**  
-- **Sellers:**  
-  Forward-thinking, tech-savvy, and open to using AI tools to automate and scale their sales processes.  
-
-- **Buyers:**  
-  Price-conscious, deal-seeking, and open to AI-assisted shopping experiences.  
-
-### Random Ideas
-  - Chat should be research system for buyers, for example "I want to buy good drone" - and give some research
