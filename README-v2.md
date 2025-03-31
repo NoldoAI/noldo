@@ -1,16 +1,15 @@
 **Summary of Seeky**
 
-Seeky is a platform designed to connect buyers and sellers. It consists of two main components:
+Seeky is a comprehensive platform designed to connect buyers and sellers, offering two primary components:
 
 1. **Seeky.chat**  
-   - An interactive chat interface that uses in-depth product knowledge to give personalized recommendations.  
-   - Integrates with local stores to suggest relevant products.  
-   - Example: A user asks for a gaming laptop, and Seeky.chat provides a list of available options in Georgian stores.  
+   - **Interactive Consultation:** Acts as more than a simple product suggestor by providing in-depth, detailed knowledge—especially for tech products.  
+   - **Advanced Query Breakdown:** Capable of parsing complex queries such as "I want a laptop for a student," breaking down the request, and offering tailored recommendations.  
+   - **Local Store Integration:** Provides product suggestions available in local (e.g., Georgian) stores.
 
 2. **Seeky.app**  
-   - A tool for businesses that offers market insights based on data from Seeky.chat.  
-   - Generates leads from social media (e.g., if someone posts about wanting to buy an iPhone 14, businesses with that product can reach out).  
-   - Also leverages leads directly from Seeky.chat.  
-   - Businesses can upload their product databases to improve recommendations and lead matching.  
+   - **Market Insights:** Leverages data from Seeky.chat to deliver actionable insights about consumer interests and trends.  
+   - **Lead Generation:** A key feature is generating leads not only from direct interactions on Seeky.chat but also from social media channels, such as matching buyers who express interest in products on social media groups.  
+   - **Business Integration:** Businesses can upload their product databases to enhance lead matching and improve the accuracy of recommendations.
 
-Overall, Seeky aims to streamline the buying process for consumers and empower businesses with actionable market data and lead generation.
+Overall, Seeky bridges the gap between consumer needs and business offerings by combining sophisticated product consultation with powerful market intelligence and lead generation capabilities.
