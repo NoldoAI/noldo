@@ -1,5 +1,5 @@
 
-### 🚀 **Startup Pitch: "Seeky" (just an example name)**
+### 🚀 **Startup Pitch: "Seeky"**
 
 **What’s the idea?**
 Think about this—people on Reddit complain **all the time** about products, apps, and services. Reddit’s literally full of people saying exactly what's annoying, missing, or broken in their daily lives.
