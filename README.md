@@ -1,11 +1,8 @@
-Sure, here’s your startup pitch explained casually, like you're telling a friend over coffee:
-
----
 
 ### 🚀 **Startup Pitch: "Seeky" (just an example name)**
 
 **What’s the idea?**
-Dude, think about this—people on Reddit complain **all the time** about products, apps, and services. Reddit’s literally full of people saying exactly what's annoying, missing, or broken in their daily lives.
+Think about this—people on Reddit complain **all the time** about products, apps, and services. Reddit’s literally full of people saying exactly what's annoying, missing, or broken in their daily lives.
 
 Now imagine a simple tool—powered by AI—that scans all these conversations, spots the biggest frustrations or problems, and automatically tells you, "Hey, here’s a perfect business opportunity you could start right now." That's exactly what Seeky does.
 
