@@ -1,10 +1,10 @@
 
-### 🚀 **Startup Pitch: "Seeky"**
+### 🚀 **Startup Pitch: "NoldoAI"**
 
 **What’s the idea?**
 Think about this—people on Reddit complain **all the time** about products, apps, and services. Reddit’s literally full of people saying exactly what's annoying, missing, or broken in their daily lives.
 
-Now imagine a simple tool—powered by AI—that scans all these conversations, spots the biggest frustrations or problems, and automatically tells you, "Hey, here’s a perfect business opportunity you could start right now." That's exactly what Seeky does.
+Now imagine a simple tool—powered by AI—that scans all these conversations, spots the biggest frustrations or problems, and automatically tells you, "Hey, here’s a perfect business opportunity you could start right now." That's exactly what NoldoAI does.
 
 ---
 
@@ -43,13 +43,13 @@ Easy: subscriptions. A free tier that gives basic insights, and premium plans th
 * **Real demand:** No guessing. People are literally telling us exactly what problems they have, unfiltered.
 * **Clear ROI:** Users instantly see value—saving weeks or months of market research.
 * **Continuous updates:** New opportunities come up daily, so there's always fresh value.
-* **Competitive advantage:** Most competitors focus on general trend analysis or brand monitoring. Seeky is specifically about turning user complaints directly into profitable business ideas.
+* **Competitive advantage:** Most competitors focus on general trend analysis or brand monitoring. NoldoAI is specifically about turning user complaints directly into profitable business ideas.
 
 ---
 
 ### ⚡ **An Example (Realistic Scenario):**
 
-Let's say you're into productivity apps. You log into Seeky, and today it shows a big insight:
+Let's say you're into productivity apps. You log into NoldoAI, and today it shows a big insight:
 
 * "**Problem:** Users constantly complaining productivity apps like Notion or ClickUp feel way too bloated and overwhelming for everyday tasks."
 * "**Suggested Opportunity:** Build a simple, minimalist daily-planner app—no clutter, just easy to-do lists and reminders."
@@ -64,4 +64,4 @@ Become the #1 place entrepreneurs and startups go first when thinking about buil
 
 ---
 
-That's Seeky—clear, straightforward, and immediately valuable.
+That's NoldoAI—clear, straightforward, and immediately valuable.
