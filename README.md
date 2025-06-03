@@ -1,66 +1,72 @@
 
-### 🚀 **Startup Pitch: "noldo.ai"**
-
-**What’s the idea?**
-Think about this—people on Reddit complain **all the time** about products, apps, and services. Reddit’s literally full of people saying exactly what's annoying, missing, or broken in their daily lives.
-
-Now imagine a simple tool—powered by AI—that scans all these conversations, spots the biggest frustrations or problems, and automatically tells you, "Hey, here’s a perfect business opportunity you could start right now." That's exactly what noldo.ai does.
+🚀 **Startup Pitch: noldo.ai**
+**"We don't guess what users want — we know."**
 
 ---
 
-### 📌 **How does it work exactly?**
+### 💡 What’s the problem?
 
-Super straightforward:
-
-* **Step 1 (We grab data):**
-  We pull conversations directly from popular Reddit communities—everything from tech gadgets and productivity apps to cooking tools and personal finance.
-
-* **Step 2 (We let AI do its thing):**
-  Our AI analyzes these conversations, detects recurring problems and complaints, and measures how big or frequent each problem is.
-
-* **Step 3 (Turn problems into opportunities):**
-  The tool automatically suggests business ideas or product concepts based on these problems. Like if hundreds of users complain that "all fitness apps are way too complicated," we instantly suggest an opportunity—like a super-simple fitness tracker app designed specifically for casual users.
-
-* **Step 4 (Make it actionable):**
-  We give clear, straightforward insights, along with some numbers (how big the potential market is, how annoyed people really are), so you can quickly decide if it's worth your time.
+Every day, thousands of people vent on Reddit about products, services, and tools that frustrate them. Buried in these rants are **real pain points**, waiting to be solved. But nobody's tracking them at scale — until now.
 
 ---
 
-### 🤔 **Who would pay for this?**
+### 🔍 What does noldo.ai do?
 
-Entrepreneurs, startup founders, product managers, investors—literally anyone who wants to build something people actually need and will pay for. They pay a monthly fee (think \$50–\$100/month for individual users, more for teams), and they instantly get validated, real-world problems they can build solutions for.
+**noldo.ai is an AI-powered platform that monitors Reddit to detect, track, and analyze real user complaints and frustrations — turning them into structured, searchable pain insights.**
 
----
-
-### 💸 **How do we make money?**
-
-Easy: subscriptions. A free tier that gives basic insights, and premium plans that offer deeper analysis, unlimited Reddit communities to track, custom reporting, and team collaboration features.
+We don’t generate startup ideas.
+We don’t offer solutions.
+**We surface real-world demand signals — straight from the source.**
 
 ---
 
-### 🏆 **Why would this actually work?**
+### 🔧 How it works
 
-* **Real demand:** No guessing. People are literally telling us exactly what problems they have, unfiltered.
-* **Clear ROI:** Users instantly see value—saving weeks or months of market research.
-* **Continuous updates:** New opportunities come up daily, so there's always fresh value.
-* **Competitive advantage:** Most competitors focus on general trend analysis or brand monitoring. noldo.ai is specifically about turning user complaints directly into profitable business ideas.
-
----
-
-### ⚡ **An Example (Realistic Scenario):**
-
-Let's say you're into productivity apps. You log into noldo.ai, and today it shows a big insight:
-
-* "**Problem:** Users constantly complaining productivity apps like Notion or ClickUp feel way too bloated and overwhelming for everyday tasks."
-* "**Suggested Opportunity:** Build a simple, minimalist daily-planner app—no clutter, just easy to-do lists and reminders."
-
-You see stats: 3,200 users complained about this problem last month alone. Instant validation—clearly people want this solved. You start building a prototype immediately, confident that there’s already a waiting market.
+1. **Monitor Reddit:** We continuously scan high-signal subreddits across industries.
+2. **Detect complaints:** Our AI spots and extracts user frustrations from posts and comments.
+3. **Enrich insights:** Each pain point is scored by severity, momentum (how fast it’s growing), audience persona, and theme cluster.
+4. **Make it usable:** Users can search, filter, analyze trends, or even get alerts when new problems emerge.
 
 ---
 
-### 🎯 **The vision (long-term):**
+### 👥 Who is it for?
 
-Become the #1 place entrepreneurs and startups go first when thinking about building something new, completely removing guesswork from product development.
+* **Startup founders** looking for the *right* problem to solve
+* **Product managers** tracking what’s broken in their space
+* **Researchers and VCs** scanning for unmet needs
+* **Indie hackers and makers** looking for signals, not noise
+
+---
+
+### 🧠 What makes us different?
+
+* We don’t do “trends.” We do *frustrations*.
+* We don’t guess demand. We track it as it rises.
+* We give context: **who’s complaining**, **how often**, and **how badly**.
+
+---
+
+### ⚡ Example insight
+
+> “Over 3,000 Reddit users this month expressed frustration with bloated AI productivity apps, calling them slow, complex, and distracting.”
+> Severity: High | Momentum: Rising | Persona: Solo founders & devs
+> Suggested action: Investigate the demand for lightweight task managers.
+
+---
+
+### 💸 Business model
+
+**SaaS platform with a freemium model**
+
+* Free: Basic complaints feed, trending themes
+* Paid tiers: Full access to enriched analytics, search filters, export tools, and alerts
+
+---
+
+### 🎯 The vision
+
+**noldo.ai becomes the world’s pain radar.**
+We want to be the first place builders go to understand what *actually* needs fixing — no surveys, no assumptions, just real user pain at scale.
 
 ---
 
