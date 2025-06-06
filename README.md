@@ -1,5 +1,5 @@
 
-🚀 **Startup Pitch: noldo.ai**
+🚀 **noldo.ai**
 **"We don't guess what users want — we know."**
 
 ---
