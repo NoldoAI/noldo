@@ -1,4 +1,8 @@
+-------------------------
+explain the problem -> find people with that problems
 
+
+-------------------------
 🚀 **noldo.ai**
 **"We don't guess what users want — we know."**
 
