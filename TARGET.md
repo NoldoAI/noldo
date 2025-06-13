@@ -5,3 +5,6 @@
 - product market fit (EVIDENCE)
 
 ## We need to develop ICP(ideal customer profile)
+
+
+## WHY NOW? tech stuff
