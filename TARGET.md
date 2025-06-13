@@ -1,4 +1,4 @@
-- our targets are founders and indie-hackers who're seeking problems to solve
+## our targets are founders and indie-hackers who're seeking problems to solve
 - we need deep market research
 - unique value proposition
 - scalable business model
