@@ -2,3 +2,4 @@
 - we need deep market research
 - unique value proposition
 - scalable business model
+- product market fit (EVIDENCE)
