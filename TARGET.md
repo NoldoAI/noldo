@@ -3,3 +3,5 @@
 - unique value proposition
 - scalable business model
 - product market fit (EVIDENCE)
+
+## We need to develop ICP(ideal customer profile)
