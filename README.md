@@ -1,3 +1,7 @@
+Clearly highlight niche opportunities with higher "market opportunity" and "willingness to pay" scores, emphasizing specialized problems and potential revenue streams for users.
+
+-----------------------------
+
 noldo.ai — "We don't guess what users want — we know."
 
 💡 What’s the Problem? Every day, thousands of people vent their frustrations on Reddit about products, services, and tools they use. Hidden within these complaints are authentic, high-value pain points, representing unmet needs and opportunities. Yet, no one systematically tracks these insights—until now.
